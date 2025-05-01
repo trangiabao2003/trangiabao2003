@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Learn new languages and technologies.<br>Listen to music and watch movies.<br>Play games and exercise at the gym.</p>
+<p align="left">I am a recent graduate, majoring in software engineering. My passion for programming and love of learning new technologies are the driving forces that help me strive to become a full-stack developer. I want to work at the company as a backend developer to help the company's products be optimized and stable as well as work in a professional environment with good benefits to develop myself. </p>
 
 ###
 
